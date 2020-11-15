@@ -1,0 +1,1 @@
+require('../miragejs/server').makeServer()
