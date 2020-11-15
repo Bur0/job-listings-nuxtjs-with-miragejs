@@ -39,7 +39,7 @@ export default {
   build: {},
 
   server: {
-    port: 4000, // default: 3000
+    port: 3000, // default: 3000
     host: 'localhost', // default: localhost
   },
 }
