@@ -1,5 +1,8 @@
+![](https://media.giphy.com/media/GJMt1RHtQljdGbTKrE/giphy.gif "Logo Title Text 1")
+
 ## Build Setup
 ```bash
+
 git clone https://github.com/Bur0/job-listings-nuxtjs-with-miragejs.git
 
 # install dependencies
