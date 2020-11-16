@@ -22,9 +22,6 @@
           <ul>
             <li v-for="job in filterJobs" :key="job.jobId">
               <nuxt-link :to="`/jobdetail/${job.jobId}`,">
-                <!--             <nuxt-link :to="{name:`/jobdetail/${job.jobId}`, params: { id: job.jobId } }">
- -->
-
                 <div class="title">{{ job.positionName }}</div>
                 <div class="company">{{ job.companyName }}</div>
                 <div class="bottom">
@@ -39,7 +36,7 @@
         </template>
 
         <div v-else class="empty">
-          <b>{{ search }}</b> ait sonuç bulunamadı .
+          <b>{{ search }}</b> ait sonuç bulunamadı.
         </div>
       </div>
     </div>

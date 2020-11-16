@@ -10,10 +10,6 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
-  router: {
-    base: '/joblist',
-  },
-
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: ['normalize.css/normalize.css', '@/assets/css/main.scss'],
 

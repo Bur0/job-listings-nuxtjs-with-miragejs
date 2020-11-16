@@ -70,9 +70,14 @@ export default {
   border-radius: 3px;
   box-shadow: 2px 2px 3px rgb(27 27 27 / 5%);
 
-  h1 {
+  h1,
+  h2 {
     padding: 0;
     margin: 0;
+    margin-bottom: 10px;
+  }
+  p {
+    margin-bottom: 5px;
   }
 }
 </style>
