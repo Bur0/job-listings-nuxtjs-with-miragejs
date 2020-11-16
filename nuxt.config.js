@@ -33,7 +33,11 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
-
+  
+  generate: {
+    fallback: true
+  },
+  
   server: {
     port: 3000, // default: 3000
     host: 'localhost', // default: localhost
