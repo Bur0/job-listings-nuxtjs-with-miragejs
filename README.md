@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/GJMt1RHtQljdGbTKrE/giphy.gif "Logo Title Text 1")
+![](https://media.giphy.com/media/lOptfV6OJQaqo5i1bw/giphy.gif)
 
 ## Build Setup
 ```bash
